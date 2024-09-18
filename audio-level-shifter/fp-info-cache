@@ -1,4 +1,4 @@
-21863594393525992
+21937444624049492
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60948,6 +60948,314 @@ Yellow 5381 Series LED
 0
 2
 2
+MCQN
+6TimesChampionsOfEurope
+
+
+0
+0
+0
+MCQN
+35RASMT4BHNTRX
+35RASMT4BHNTRX
+Connector
+0
+7
+7
+MCQN
+Alpha_Potentiometer_9mm_RightAngle
+
+
+0
+3
+3
+MCQN
+BatteryHolder_Keystone_3000_1x12mm-fixed-courtyard
+http://www.keyelco.com/product-pdf.cfm?p=777
+Keystone type 3000 coin cell retainer
+0
+3
+2
+MCQN
+CameraZoomStepper
+
+
+0
+4
+4
+MCQN
+Connector_1x09_SMD_Horizontal
+
+
+0
+18
+9
+MCQN
+Crystal_SMD_ABS25
+
+
+0
+4
+4
+MCQN
+D_SMD_MicroDiode_MDD
+Diode SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+diode handsolder
+0
+2
+2
+MCQN
+Fuseholder_Cylinder-5x20mm_Wurth_WR-FSH_Horizontal
+Fuseholder horizontal open, 5x20mm, 500V, 16A, Schurter 0031.8201, https://us.schurter.com/bundles/snceschurter/epim/_ProdPool_/newDS/en/typ_OGN.pdf
+Fuseholder horizontal open 5x20 Schurter 0031.8201
+0
+2
+2
+MCQN
+Keystone_3557-2_Blade_Fuseholder
+
+
+0
+4
+2
+MCQN
+LED-SMD-PLCC4
+
+
+0
+4
+2
+MCQN
+LED_0805_2012Metric_Pad1.15x1.40mm_Minimal_HandSolder
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+2
+2
+MCQN
+LED_LIGHT_PIPE
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+0
+0
+MCQN
+LED_SMD_WL-SMSW_side-emitting
+LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+LED handsolder
+0
+3
+3
+MCQN
+LEDx3_LIGHT_PIPE
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+0
+0
+MCQN
+LFC-Cufflink-L
+
+
+0
+0
+0
+MCQN
+LFC-Cufflink-R
+
+
+0
+0
+0
+MCQN
+MAX98357-Breakout
+
+
+0
+9
+9
+MCQN
+MCQNLOGO
+
+
+0
+0
+0
+MCQN
+Micro_USB_B
+SOT-23, Handsoldering
+SOT-23
+0
+7
+6
+MCQN
+Molex_44206-0007_socket_(ATX_power)
+
+
+0
+24
+24
+MCQN
+Mousebite 1mm
+
+
+0
+0
+0
+MCQN
+Mousebite 2mm
+
+
+0
+0
+0
+MCQN
+Pi_Mating_Header_2x20_P2.54mm_Vertical_SMD
+surface-mounted straight pin header, 2x20, 2.54mm pitch, double rows
+Surface mounted pin header SMD 2x20 2.54mm double row
+0
+40
+40
+MCQN
+PinSocket_1x02_P2.54mm_Horizontal_SMD
+Through hole angled socket strip, 1x02, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated
+Through hole angled socket strip THT 1x02 2.54mm single row
+0
+4
+2
+MCQN
+SMD_Barrel_Jack_2.1mm
+SOT-23, Handsoldering
+SOT-23
+0
+4
+3
+MCQN
+SOT-223-2+4
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+3
+MCQN
+SW_SPST_GULLWING
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+MCQN
+TO-220_Regulator_Horizontal_LargePads
+TO-220, Neutral, Horizontal, Large Pads,
+TO-220, Neutral, Horizontal, Large Pads,
+0
+3
+3
+MCQN
+TestPoint_SMD_2-5mm
+
+
+0
+1
+1
+MCQN
+WTB_CONN_2
+C&K Components SPST SMD PTS645 Series 6mm Tact Switch
+SPST Button Switch
+0
+4
+2
+MCQN
+c_elec_12.5x12.5
+SMT capacitor, aluminium electrolytic, 10x10
+
+0
+2
+2
+MCQN
+charging
+
+
+0
+0
+0
+MCQN
+mcqn-com-ibal211
+
+
+0
+0
+0
+MCQN
+mcqn-logo
+
+
+0
+0
+0
+MCQN
+mcqn-logo-10mm
+
+
+0
+0
+0
+MCQN
+mcqn-logo-20mm
+
+
+0
+0
+0
+MCQN
+mcqn-logo-30mm
+
+
+0
+0
+0
+MCQN
+mcqn-logo-new
+
+
+0
+0
+0
+MCQN
+miab-logo-9x7mm
+
+
+0
+0
+0
+MCQN
+miab-logo-14x10mm
+
+
+0
+0
+0
+MCQN
+miab-logo-28x20mm
+
+
+0
+0
+0
+MCQN
+out
+
+
+0
+0
+0
+MCQN
+s2sRudolph
+
+
+0
+0
+0
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
