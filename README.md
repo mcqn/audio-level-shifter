@@ -2,9 +2,7 @@
 
 A simple analogue attenuator circuit to connect line-level audio to mic-level audio.
 
-![Render of a circuit board inside a rectangular case.  There are two headphone sockets and a potentiometer on the PCB and they're poking through one side of the case.
-
-The case has a top and bottom half, and the top half is shown as transparent so the components inside are visible](audio-level-shifter.png)
+![Render of a circuit board inside a rectangular case.  There are two headphone sockets and a potentiometer on the PCB and they're poking through one side of the case. The case has a top and bottom half, and the top half is shown as transparent so the components inside are visible](audio-level-shifter.png)
 
 ## Files
 
