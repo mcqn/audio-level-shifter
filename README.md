@@ -4,11 +4,13 @@ A simple analogue attenuator circuit to connect line-level audio to mic-level au
 
 The [Rode Wireless GO](https://rode.com/en/microphones/wireless/wirelessgo?variant_sku=WIGO) is a nice wireless microphone.  We've also been using it, in combination with the [audio-level-shifter](../) board to act as a wireless relay for a remote speaker.
 
+![Render of a circuit board inside a rectangular case.  There are two headphone sockets and a potentiometer on the PCB and they're poking through one side of the case. The case has a top and bottom half, and the top half is shown as transparent so the components inside are visible](audio-level-shifter.png)
+
 Aux out -> audio-level-shifter -> mic input on the Wireless GO transmitter -> Wireless GO receiver -> Aux in on speaker
 
 We've been using this setup to run a second speaker on our group bike rides.  The key to getting reliable audio relay across a group of cyclists is to get the radio setup up above everyone's heads.  For that we've been repurposing action camera accessories&mdash;mostly clamps and selfie sticks.  To make it easier to securely mount everything we've designed some [3D-printed sleeves for the Wireless GO](extras/) with GoPro-compatible fastenings.
 
-![Render of a circuit board inside a rectangular case.  There are two headphone sockets and a potentiometer on the PCB and they're poking through one side of the case. The case has a top and bottom half, and the top half is shown as transparent so the components inside are visible](audio-level-shifter.png)
+[![OSHWA certification number UK000066](certification-mark-UK000066.png)](https://certification.oshwa.org/uk000066.html)
 
 ## Files
 
