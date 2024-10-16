@@ -468,7 +468,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Output",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "audio-level-shifter.step",
